@@ -4,5 +4,5 @@ Track untracked files.
 Adding recursive_1
 Adding recursive_2
 Adding recursive_3
-
+Add command to check reset.
  
