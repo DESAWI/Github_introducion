@@ -1,2 +1,4 @@
 Creating commands for Git.
 Woring directory ==> staging area ==> Reposotiory 
+Track untracked files.
+
